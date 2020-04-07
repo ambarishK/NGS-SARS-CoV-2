@@ -4,7 +4,7 @@
 
 ## Resource utilisation
 
-## Query reolving
+## Query resolving
 
 ## Troubleshooting
 
