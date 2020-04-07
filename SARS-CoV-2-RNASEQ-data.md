@@ -13,7 +13,7 @@ Following findings give us insight of currently sequenced SARS-CoV-2 virus RNASE
 
 #### Basic Local Alignment Search of SARS-CoV-2 reads into nt-database.
 
-#### Alignmment statistics.
+#### Alignment statistics.
 
 #### Mapped reads to human genome.
 
