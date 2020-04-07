@@ -9,19 +9,21 @@ All inculded data into the study is centered at Wuhan, China the main epicenter 
 
 Quite noisy and metagenomic in nature. 
 
-### Basic Local Alignment Search of SARS-CoV-2 reads into nt-database.
+Following findings give us insight of currently sequenced SARS-CoV-2 virus RNASEQ. 
 
-### Alignmment statistics.
+#### Basic Local Alignment Search of SARS-CoV-2 reads into nt-database.
 
-### Mapped reads to human genome.
+#### Alignmment statistics.
+
+#### Mapped reads to human genome.
 
 Chomosomal locus 
 
-### Filtered reads - unmapped reads to human genome.
+#### Filtered reads - unmapped reads to human genome.
 
 Included organism into the unmapped reads.
 
-### Number of mapped hits of filtered reads with SARS-CoV-2 reference genome.
+#### Number of mapped hits of filtered reads with SARS-CoV-2 reference genome.
 
 
 
