@@ -17,7 +17,7 @@ Following findings give us insight of currently sequenced SARS-CoV-2 virus RNASE
 
 #### Mapped reads to human genome.
 
-Chomosomal locus 
+Chromosomal locus 
 
 #### Filtered reads - unmapped reads to human genome.
 
