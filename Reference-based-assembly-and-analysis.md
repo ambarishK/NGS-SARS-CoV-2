@@ -2,7 +2,7 @@
 
 TOPHAT is gapped reads aligner using bowtie2 engine. 
 
-## Inluded tools and respective results.
+## Included tools and respective results.
 
 ## Discussions
 
