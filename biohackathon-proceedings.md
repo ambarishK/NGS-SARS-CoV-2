@@ -1,6 +1,6 @@
 ## Groups and proceedings
 
-## Collaboartions
+## Collaborations
 
 ## Resource utilisation
 
